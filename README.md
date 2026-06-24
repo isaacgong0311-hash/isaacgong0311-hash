@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm Isaac Gong</h1>
-<h3 align="center">Freshman · AIME Qualifier · Quantitative Finance & Machine Learning · Austin, TX</h3>
+﻿<h1 align="center">Hi, I'm Isaac Gong</h1>
+<h3 align="center">Freshman - AIME Qualifier - Quantitative Finance and Machine Learning - Austin, TX</h3>
 
 <br/>
 
-- 🔭 I'm currently building [**StrikeLab**](https://strikelabco.vercel.app) — a browser-based options pricing curriculum teaching Black-Scholes, the Greeks, and binomial trees
-- 🌱 I'm deepening my knowledge in **stochastic calculus, C++ systems programming, and transformer architectures**
-- 💬 Ask me about **options pricing, Black-Scholes, NLP pipelines, and FastAPI**
-- 📝 See my work at [**strikelabco.vercel.app**](https://strikelabco.vercel.app)
-- ⚡ Fun fact: I qualified for **AIME** as a freshman
+- I'm currently building <a href="https://strikelabco.vercel.app"><strong>StrikeLab</strong></a> - a browser-based options pricing curriculum teaching Black-Scholes, the Greeks, and binomial trees
+- I'm deepening my knowledge in <strong>stochastic calculus, C++ systems programming, and transformer architectures</strong>
+- Ask me about <strong>options pricing, Black-Scholes, NLP pipelines, and FastAPI</strong>
+- See my work at <a href="https://strikelabco.vercel.app"><strong>strikelabco.vercel.app</strong></a>
+- Fun fact: I qualified for <strong>AIME</strong> as a freshman
 
 <br/>
 
-### 🚀 Featured Projects
+<h3>Featured Projects</h3>
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
-| [StrikeLab](https://github.com/isaacgong0311-hash/strikelab) | Next.js · Pyodide · TypeScript | 10-lesson options course — Black-Scholes → binomial trees, live Greeks visualizer |
-| [Sentiment Analysis API](https://github.com/isaacgong0311-hash/sentiment-analysis-api) | DistilBERT · FastAPI | Multi-class sentiment classifier with production inference server |
-| [Resume Screener](https://github.com/isaacgong0311-hash/resume-screener) | spaCy · FastAPI | NLP job-fit scoring engine with structured output |
-| [FinPath](https://github.com/isaacgong0311-hash/finpath) | Next.js · Claude API | AI financial coach — debt payoff engine + plain-English explanations |
-| [Crossroads](https://github.com/isaacgong0311-hash/crossroads) | Next.js · Claude API | Youth Code × AI Hackathon — AI future-self reflection tool |
+| <a href="https://github.com/isaacgong0311-hash/strikelab">StrikeLab</a> | Next.js, Pyodide, TypeScript | 10-lesson options course - Black-Scholes to binomial trees, live Greeks visualizer |
+| <a href="https://github.com/isaacgong0311-hash/sentiment-analysis-api">Sentiment Analysis API</a> | DistilBERT, FastAPI | Multi-class sentiment classifier with production inference server |
+| <a href="https://github.com/isaacgong0311-hash/resume-screener">Resume Screener</a> | spaCy, FastAPI | NLP job-fit scoring engine with structured output |
+| <a href="https://github.com/isaacgong0311-hash/finpath">FinPath</a> | Next.js, Claude API | AI financial coach - debt payoff engine and plain-English explanations |
+| <a href="https://github.com/isaacgong0311-hash/crossroads">Crossroads</a> | Next.js, Claude API | Youth Code x AI Hackathon - AI future-self reflection tool |
 
 <br/>
 
-### 🛠️ Languages and Tools
+<h3>Languages and Tools</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -39,10 +39,9 @@
 
 <br/>
 
-### 📊 GitHub Stats
+<h3>GitHub Stats</h3>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=isaacgong0311-hash&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats"/>
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacgong0311-hash&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" alt="Top Languages"/>
 </p>
