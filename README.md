@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9C27B0&height=200&section=header&text=Isaac%20Gong&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Research%20%7C%20Mechanistic%20Interpretability&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=650&lines=Testing+whether+curriculum+ordering+changes+grokking...;Replicated+it.+Broke+it.+Fixed+it.+Reported+all+three.;n%3D3+can%27t+beat+p%3D0.10.+So+I+ran+n%3D5.;Currently%3A+researching+PBNN+with+Prof.+Liping+Liu+%40+Tufts" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=780&lines=Testing+whether+curriculum+ordering+changes+grokking...;Replicated+it.+Broke+it.+Fixed+it.+Reported+all+three.;n%3D3+can%27t+beat+p%3D0.10.+So+I+ran+n%3D5.;Currently%3A+researching+PBNN+with+Prof.+Liping+Liu+%40+Tufts" alt="Typing SVG" />
 </a>
 
 </div>
