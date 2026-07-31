@@ -1,89 +1,119 @@
-# v2 git bundle
-f5ba79e6db9e96d4a53c785b299bbb27a5225fc4 refs/heads/master
-f5ba79e6db9e96d4a53c785b299bbb27a5225fc4 HEAD
+<div align="center">
 
-PACK      ”kxœ”KoÜ6…÷üwç]ÛŠˆëx‘¢ˆƒì)òJb‡"U’Òdúë{(ilwcI”xç|—)0oî6Unw[¥´®¶ÛU¹®6«ÛÝ~Wi½Ýïùv«¥èd`—h¿[o”^oËŠõŽ·+¹)×²Zßn Ü³^¯v«Ýa}'dŸè9J©èÉ»š>š|_ãvµ]¯¯[iìRùö7Zÿz»ßoïvwkúe…?ÕÖ¤Ä?»_üa~Pü‘)t¼§š ™˜b’)Ò`$=™ô¹/éA%ãKM¾"¯ÖL=
-ñ¢ ”‹Ç>ü?±¦Ô\åð
-J¾+¬tõåY:M;_tfª@Hk±â4 ƒ^d¼”gZYs¤¢ å]eB‹è¹8Õ ‹42QÞ™” j“š¾,Êk¹ó/ ŠíRv!zçCQð
-å™1eêƒË)÷«­¸ÊuC7—ðãPt²È§¹³þÜÂßEÙ2™{¦ÊÊºÆk´÷u ãû8»³˜38Ÿ%z;°¾^
-ñÕûT¨˜*¸ ÍøˆNI:ùp”Á÷Nß“ÔšµXNMÝä7•õ§x3öUŒ¶-Ï­¥>æò§UjéÌ¿2;v3Ë!ÞëQÈÑM8€¢¤ÅÏÛó[Ûš®6ÛCâ‚¾<Ö(øË
-‚˜¦2³ÚVi´‘*Nª¹¦)ødËdfœP€hb¬˜žÿ|yþô8®Î`…Þ<L²Ú@®×(zùþ©Ï±D|e,ß,é¶}|øôåúžèbk¢åÍå£Éþ8Ô
-ñ¶øÊáøbLûö,5¨;BÏ|£zÛ·ùSñŽþ\úÿUþP@¼<×¯€åúL„­xlH ¡¬‡Sgºô}$ó\Ðg—øÂÄµçÅ{<Dã»ì´IY*Ä-¥:¨—'ó¸]Åñi†_£+Ë|
-\Ó‰AýÛe Æp#½<_gyÇr• ¾BzŽdŸ½ãˆäÀˆg¸'(ditð-¢¡wvƒ	Þå¶î‰ñÉËÈÆ6²Sâ#ÿwFè·UÃê˜Ë´ô
-×8åÿésÒ’+JF ×#PÏbÏèy 7ø «>A!¸f4Ï¬ÿÿ<‹ÜaÆ§„#Ä§`pþI¥8üScTƒIw Å€³tì°É"â02pKL¤½êsŸ<ŸkeolÊ.£½'ØÛ©¦¼Æ•}šÚ7P”:ÃŠ',³ž¦f¶ÄŸNŠ Þ
-Lò+3u¸,ÅàŽYæ˜Mxœ“OoÔ0Åïþsk+6Ëþß- D¡UAj¡¢+\ÐÄž$C{±.ûíg·-'ä9‰=óæ½_R ‚…^ÑJS¥'³ñòô§åt<[Žª…)WS™IEËÙ|‚jƒ\‚ÙÄŒçKB³*õ|ºÑ+Âe)KƒfaæÕb^ŽôRa—àCDÔpé]
-¯8¯kYŽ¦ãñ›ºE¶CíÛ×0^®æóñ|ºÃ³‘\JÞ¶œýïyõ®!} ¸¥è[*jNMW›à+¶T‘ßT"áÄÞÅA^Â=®˜xGQnv§ÔgºgÚÊ;,Ž
-Ý9d6Ýó?ŠPuÖBòÞ‚å˜†êÚÇÕ>°T?FÇ-
- P
-~ 5J­Ö:ãÝQ‚Š |„A7p¨ÿR¥†Àì¶¬‹˜0Å¾I„­©.²Xµ¥@€6kÙ;ØXÔ4TjM1É$¹„LÚJíG (à’Óû®„›}3X ¿ivùCIbõ{]­8‰_Îˆ…Ü9É¸º
-»ù[×››ÛD
-d»ËÊDR”VóWuX¯»VN‹¶ƒ{ú.aM/`6šÀùÅÍÕ§o××?Î?Üž½½º8WRe[%@‰…š/4Y0´±~—
-áœ
-8Ÿú˜Yžoñ€@Vù«ó‰¢Ú²©Iœ¾}ŸÓƒci}2„µ Ú»ŠC%
-fH”í¹ÊhNqôó0ì4i?È­ûgËnß¶êR'†ª$+×§sfLgë9,,ß‹Œ†Éš8d%ŠBaç
-×ôu 7»µ8N¤°‹F’RÙ2Ö;Åš§ãSÎ†]0¦Ðé,a°·Eny„Ø¢µJ`ûI:Çúäé_fÊÿ…]Ý¤=ü;ÿ`ºåÌ7|'çÍAë8‡?:#pŒýœ J¾÷9|'¸Gé™AÜ
-’yÆ:É°>àL¿9î½ì’4êÇ³'Cõ Üƒ­„”LxœTËnÛH¼ÏWô-Ö$yåG°XÄ@žç¹7É²£á1Ë¾äÛ·†T$À^Ö€’Ý]SUS­Eè’åÏ«ý¥m7››ÞnìE·éäúêêâFlsm›öÂînv{Ã%!ÒÇÄÜÒûà{úKësÇÍÅvûºYÝº
-ãß´½ºÞï·ûíî’þØàÏàë¨9Ëÿ7·]Gìuä,½×ü¡44Å`Õ	}y{ûæó[cîŸ&ìÒ¦ÁÓ ÜI<§#?5ì}}9
-§Ì9QË±Kçx‰Â‡åÛ¹Éa"Ç¾/Ü
-ŠÏÇ¶Áç¨M™±“çƒÐÙƒòÄÛ¶^í ÎEû<
-âd…s‰Ò­¢$áØ”dn'§þPYçA¨áP_Vm‰QÛâÊh¢LamÌ;}”
-žŽšÒS#6D¡“±zõ‹
-*	ýô«×]€»Þœõš‡Ò€w£¬–‰Õ<±îdŽ›z°lPì‚$ÿ"ãÔ<äLì­V¦"·!F¨8a“&ú/¼—kú*Q­‚“S UÛ Ò™“ŒÙ%[óQ­>Bò'Ž59ÇmÅ×kPÏäý.¥žù ±·æiz‘h*ÓÖ¨GÍ·B'Ø&žFö:žhâÙ¦æ‰–Uÿ`‘´|ÿ‡=í6»Ks†Ë´G4Wê•$Ò÷
-êqN¥yÊÀÌ·îœ¢Ï	Úï M†­E{šgg¿~&p–Ô­jê–Okº›¡•Ž‰úpÿùnÞ#¸@ò89`üNÒ\–ÈW¤)@Ç\
-Ï§-º²ÈÔ‚ÓA¼¦³$Î®†ª½_g
-éÙ5ìü¯§È@ˆ X%, Ï°2
-:Íë× Äð;ƒí©ÓéÈKb°	!È:îûÙøSÆ±xÍOµZCt‚ªµµWÐ/¿?PÀùy
-×æ_¬
-§xœ31 ½ôÌ’ŒÒ$†Ú-ï{Ï^½¿Î¯åðÜjß_9Åžsf˜™˜(¹:ºøºêå¦0(¾d[0±øƒQÖô’›KfüÜè_ ½þ¤xœ31 …òü¢ì´œüòb†wßèoý¶°Å´ípXÎ×%õ×6/  Õ³ xœ340031Q(ÎKÌNÕ«ÌÍaxrxâ/ß ˆrþ÷œÓý·¼ÏÒ47„**I,)ÖMN,J)+åâv&Zj§„ðÁµ<sSªÍƒ-ÙÙ §Uúº:xœ•’QkÔ@Çßó)†*Bîú)¶Š´"¨Èõ9Lv§ÉzÉnØ™½ëyÞww7IX*yÉÎìÿ73ÿY‹=•Ð%B9[ÜRŽÖô(ÆÙ,s¶Ì Xµ¤CGéàü–ÁYE€ ñ (PeQÀÝæã
-nŒÜ†®UB0(ï,(´Phêð@zÆ«ÉCçP¿iQ^1ÐÃ@JHZ
--ú¾#fhÉÓjå#®„‹
-x¾‹ß;¿½ïÜ¾Ò† Õ–p<Åø¸z®=Ú8O§ÄéÑØÅ…|–ýtõxåÑéú@¾7ÌišG½rVÈ
-—°÷FhŒúèJžš
-u°ò.XÆT¤‹Úö/×¡1Ò†:OLoêlËoô´ŽïšY	8Î ß#-­Ùn¯voÎÉ}ä”çÌÜ*j|5•|y<ÎÑ•§Á±ç•ÛÇFàtZH]!¤ñ~/‚ Ñ_YÿG»ÏÔäý6	ßØ‘]Î÷S<{b[Zê3,qñQÑ<Éü žø¨<þ:ä=>¬›Õ™À6ÄW»·ÿôVÐ7$Õ„-ç*‹|L§ã{ôåhÀ9Cv·ÄÜ|ÞÜÞ}¨6ß¾|ú:­‡Iy^-3i7 S4"i¹jxœ½TßoÓ0~Ï_q*¨¤t	„"U*L¨›ÛÓ„"Çv“Ä6þÑª¬ûß9;iÆÆCS_â»ó}ß}Ÿ{’t<ƒŠKnˆã©uÄÙ”Ãl’(™% –Öœù–‡o€gp!) Œì€889É^¿…«ËSx¡ÊÒr ¥Q¸šƒ•¤á°U¦)[µ«Bt7taJ9(”«¡ÖÂùâÈÂ‡¯ç d©A'¤wüå"^K$3„<Wá7ÃÄ"gÂjâhÁÍ-Æµ·uÏº0Dâ¶?…Frr°Ž›$ù®ŠXRxÑ²¾ÖxiÓ€é
-/O[TÉº˜ÒÜtÂZ¡äØ—*é¸t6ƒ­ŽÇ(¶Ö`o‘êÂ½c$EåÝjó.Kdôd=xÑž04éÍR¦"Rü$¡áq%\í‹ÔpÂºƒ›=Öjóf¼¾Åªl<Aì=´›D•Ž³€f§åó›è†ke…Sf—«-…ÛÛ¹­ÑØ¥3žÏ…¤­g<'m›SÕuÂ
-	ªPË\±Áùbh‹¢Ú¨R´ü8’ZØM5©pªáèH`c95
-Öç—gWóË‹ÏŸ¾ • µtJCKdåIÅŸBSÄKÞ£tmÉŸÈ%Ôˆ;ýò¨áòýƒÂÈÿO<-¤äÅ'NÐ-Ä–•QM#d•RoŒ ¾õÝƒ‚!^zOý£å;/\±úízhˆ
-&ƒýg
-{¤UœuºÀlPrØ×¸8¿Íþr‰ã~kï½µ
-y»
-jw‹AA|[wÛÆFmî¤˜(KHÓ^à¾ŸÏ§1ô¸ÂÉý~ 5H;˜Ñ‘ÑFÍ~ßm®m#4PñÇ`a'¿ zàVº”xœÅY]oÛÈ}×¯˜U`Å¶DJ–?’8æfÛq]8Y#6»]Áˆ’S“vf(YûPô©O
-ûÞÇEûÐ¿Ô_ÐŸÐsg(YŽxQ,Ú$ŽhræÎ{Ï=çuÈ)ã…Ìª¨‹Ê
-Ýý²Ó9eÆŒŽ£nnmmö‡Ã˜×¦)D E•N…ŽEòºòZ¾²óZD3>•UÖ‹U¡t4Úo½Ø{³=Øö_Ÿ½õr!³ÜFãÑ¨gDl¥ª¢\p˜ëYqc£3Ãy¼6*XIUe/å"Ú¹ë#g5uz¼’%wóSL?«ÜˆCÚÄwÑön/&ŽÞò8—•€½sÁuÏpù^üç¸\{v„ÿßŠ8‡5c%­|Fû¯µ°|"
-içÎRkw×Ûu>m=ï²™Llu±½µîBÆY®Ez±LÚPª!Bƒµ3ÍXÆîGV#¥nÇ…‰(UÁ'a¬ÊW´³èÔ¼¤Ñ›ùîRÉ“ñ¸—4ÚÇb{„»5oŒˆžãÊçÁg¡çSYÝˆÞôhå¿½ÝQ¯@´Lt%‹*ëÏras¡ûq£µŒ›¢)ûJ#UôŒB–	ÓÏ´º¾Æ0_¾u!cnEÒÇ¾û¯ñH¸«7ò¦½‡!JÓ ^}‹`‰ðeµ¶}¼Ýyµ6~fûÁm¿Æ­Q¸5
-û—ªÖ×¼êÓ¨Ýðå|ëÅ|mû°¯ÛT’C¯ß½ëÏ¤ÍûZ¥aÿ\R,ñÑô×vFý«&µ¦
-”Û¨{åÂÌ.¿9í2¤í`È)wCT}N4¥òÉv8Qe¥ètÎž–©EØ™‰s¥
-¶XYh&+vØPÀìêÛ›)Mñ`ªÂÔ%°:ò#X1^%Ìj.	•,™W¼”±!c¦DlèQeR¥K¬P"ë…	ÙYgÒÈÓhÃ†	² ÜÇ¿~ÿ#2R<LÜÔÈR‰8Á-­ð«!­ô¸³\6†aVÎ(ÒÓŸl, D>››¦]ÊØ,ç–±Tâ–˜ŠªtTLZ–(aª§ÆªTêr1|ˆ‘i–)ZJVa§°ÿåÇ°ÍÍeÙJ
-÷77Ù-ÔØjL¤),Šèm(¢u5«X­ÕoðlÃ9zÑhÁ^ËŠë9{'P>,åÃ°©äìü«üÆU
-¬ÀŽC
-óhÁGóÔÐ*MÍ°
- çõ_ÿ¯ß‹Ø;mrY×"!‡9«9‚ÝF‰lp–rY8WX
-ëð”f$Î¡ÂU	—¼*ÚEÄxl+ëf”1‘˜åæ:˜I8—i³‰y!ØbØo%ËçµB.4íÃ6“SipM™ƒJvÂ-g‰L(¦©]¦¥u[þã?±åÃÂ(æP×&èhz£t& 6“ì&!îðÑúÓ0õë4uK€Áêà§Ù•ÛðÄóêZPÒ&ƒI¤<°‡°Ã³·'ðð·
-T)•B;«þ;9d®±OÆ©6Éâ,§Rò±c+±óh ©`cD)¬ŽˆPUØO€/?™u—éè›¡°5X	‘pQQ“îU1¶Ä§0¹Êoð;à—,ñü°äcô¡$™Ë ˆÑöÖVs“ÐnK bá¤¢•æB¤¶{W7¼É •ª\ó‘,ëá+èÃˆèþÂ=BnôÀê=$3‘r„¤7qõøáŽ¢ä€ó ÿ *\±”ÄN=µnnžREQqLæì½
-ñ€½S–Ë4¥Õì|ÀŽQ›sÃN[O67;‡”×ëq«PÓ§WÁ˜BÙ8þZd«É2òdi/˜p@½óŸ$~¡Å–Ù‹gkàV»(ƒEÙ
-–jUvLŒåã<d‡Îº ÞºµEµ›­l®õhÊ‹Æ6ŒzÍE‘t<­P±7ÔB-‘;À8cµœ4®îSè¢pÈNn,¡kePÎ¤™^d
-¼žC39OðôÌ3ƒÇ¬yéåÀ( (yà4¦ãÙƒfnn.Yß'ŸÚ&Fn‡ã· 8
-ð 2Íæ&ˆ3—qî­y1ïpª’B–PåE$.¸, ¬BŽ'–"	]µà>ª£…2ácY@—„]Œù"P ï¾¾:aë4Û÷š"ÙØgŸ ;x»ö\"+<£2¼ak" S%¯·3×%”*	I)!„?Hè
-S~÷K¤d<ï±	„ºÆÊØ! È-¿EiL#[7‚‚ Érþƒæã“gÛÏ6Bv•#\øG;âÄ½Ò »#ÄbUbíDLœÈ3N{pœhEÝ1ëò™0
-vÛU |)T†¼ò
-vá­*®á_<º¬¦ªq¨€¦#}N–H"	 ”'› õ%ò§ZÐô-È•«¦V]ÙúGkZ­ê|¾ûÓm7¶vFcv|rqþõwoOÞ]}8>»<|}~rŒ0¼>
->gß¸¹(E”÷œo5«UÝ\ÃÈû“Ãã·'D'™ÀC,àPBri]R|2£ ¸–C‹Œæó—>._hT JÀ ¬#[IâºšƒÛgN|©Æ"îÃ†:TÄ)FãÇQÃV
-td¬©-+ðEºl–ô@'´H¡fŒ#°P mXkàl?5­Ü"U‘G®%nRù75ê^pÐ„‹TÕAEC-uzbN"nkž2ê€4RX–ž"RyC C¨£sY¤n„HaY®i£¿Ž 1Jæšu]&ºXØZxØ–ñTé¤˜âIÕàúHÖnœš+ÎN¥ýE3a‡îPç.™J5L;¼8cÄ.`Ò©’®‹ÕI j±šÔµi.D„µ[—¡Ÿe56Wš"f—,ÉÖE˜…”#´ÂäÎ”»ardà© -8ä"qx£øn„  =t¾R{\q?+¶&W³UgüÑë®ÆÞÓSàšÊ~¨µœ"è~
-£h0¡ü@¹G¸ ]Öž­»[{»Ž\ï9ï vÝz½zÂ$—r÷÷î/¹8Dý\ÁZU ŽšæóMQ¯	9}4¬Îâ Üèù§w±T§+O­?ycæý£K3Â<º«W2ªç€q5À‡B‹8 ¸ ˆÁÔÐ‰l€Ö%ÄuÝn£ çÜIÕ{ÔºõýßŸó+ñí¯×«ÂG4†Þ:L8¸sèÆ£Ñsü}eì¼Àtàô
-•©È¹â.ýKh¼·¦g³YèÆ-%„87È‰‹ùíæ7ÚQÁÉÉÎÑøèÓŽ´±ùŒ+íˆÖû¹:RÕ-Gdš×95`ô²Ê'XË˜Úw÷rÆ¨Ý'’GÝuœÙÑô™À5¾8pQJöqnÒ×®7Â®¼Çá³Ðç’ÀŠ¬£y³Ÿêø¸ã¬´¨‹xe'A¦e˜Š_ã$‚ÅCz™D˜ø©;ý¿\^õÖŸhàÁ%=a88‘&—sßKÜG§ÿ¡«½Ù;.Ò90ÍäËÓV ’&E/"}ãŒ¾ò€jøËÖÑ!½~HÑ˜¡·>/‹ƒ¡AÇƒŽïkèÝFì4•-ÆÓëÓjº©©DçÁÖ½ÀB+ùÄbëÆäji¼üc_8&c#<’¿ÕÉÊ;×«ø³‚Ö°‰ê#ŸþK" Ë)Z¦À%q•ÑÝÏ¹§<Š­Ãùä‹·Šw/Mw6ù óØúv.¨ý²¼¸^9°ƒËNÐ_0™Üq}mg”Ñ]ÂbàÏÆŸf87ò~£ÛVíß1üÕÒ¬£Ú_‰J%êÿü ð´@ÛPÙ`kïùøxçÓþüàÆ†pý Ç·Ôm¢ãŽ·vö¶wG»·±¾‡‰k”…SWŸY^OãÇýstáýo¤˜™»¯¯Û
-@…îkáÏñ]…ÿ‚Â}W±x½áÛ‚­•ï*R¥F÷ßü{äý 0NÊûî6•gxœU“Ïk1ÇAËvi-bû,Tm™Ù‘âMVvÑjˆöâA$3y3“n&’Ì®ëeoþóx/¢wü¼ùèKÖmõ4Éû¾O>/ù±û>ùüåâV/©Î…Ä¤*.Œ„*â¬1Fdlªž_Ÿ.½>7s%‚uÌÙÄé:–LÖAÆ·¢Ô`¡@…†9äN; ½B¸²I“‰6£œöØ$„Ä¡¬7­$0Å!ÓU%œ/b6tx,
-âh(çÆâˆe
-\ÃáÑ1õ—Úhuý&H1Æ—ÌQAÝ¤’R„¢8•!L˜muv/Ð¯;íýå­ó°öçòÚ†-õ9-75h,fZñˆZ”¬½ÒM¢{wwiÃ`ø|ÿèÕÁððøÍ`ïeÿÑþp°
-“IB‰Ùˆè‰-oOºë@×d^ûƒƒ!L/ÐÑé«öc÷Ö,«i›+…ƒµ>5gÿ:
-…{Ò¤ÐÏœ 6dtkTœ†˜Õtžd8ÔÌ¸émW;Q‘Ž½êvü4Ã*ag6¯[bä’ò· ,E™F)ÿ{sÁÿ3µMÈ®BÁœË‚ciJ;²,Ü)TpjAVÑ±ÍXdÄÓkÁ©x›`ã 
-9Ý
-Ê ¹ŒuˆÖFB1ÙöÃÊõöÛÊÎŒòR$Û¹dEA¶©.èÛöÞç€ÚL‰wÌc%ó«S^-NÀ1%e¹pö¿^ÞÔ	fÎk4rÚëÄñÃÎ.ÆÀdÛ]½vùìÅ„<o´ý¾úéêÙúéóoç÷¥gK [¼/X§xœ31 ½ôÌ’ŒÒ$†øuž†‰å‹ÃN}á½¯Âbé–>ÉÐÀÀÌÄD!ÈÕÑÅ×U/7…¡AÝ,ÏÈC¢áü^_ýSÓä¶
-p HP¤xœ31 …òü¢ì´œüòb†·G­CÝvooøAÿÂõÅ–©MG¾>  	~¥xœ340031Q(ÎKÌNÕ«ÌÍaxrxâ/ß ˆrþ÷œÓý·¼ÏÒ4  ú³§xœ31 ½ôÌ’ŒÒ$†øuž†‰å‹ÃN}á½¯Âbé–>ÉÐÀÀÌÄD!ÈÕÑÅ×U/7…áñÎ	
-=î’,~ýåá?_Š pj¹í	œGxœ;etOgC7ŸgšBIFªBqIbI1—Âd ^e…òŒÊÉ¼J\
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:9C27B0&height=200&section=header&text=Isaac%20Gong&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Research%20%7C%20Mechanistic%20Interpretability&descAlignY=55&descSize=18" width="100%"/>
 
-I¥é
-™y@%™Å
-i™9©z
-!©“WñŠ%ÒŠRSò@ÝyÉ©
-ùy“?ðš
-eò‹ÒSóR‹KRAÆO¶ä3
-;–åg¦€+JÑ-H,*©œÜÌgÌ”ÐHÕK×Û¼ï5Óæ=B}l ‚ê2¼!¾¯,qÛ(22®"¥gBùô¯ß
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=650&lines=Testing+whether+curriculum+ordering+changes+grokking...;Replicated+it.+Broke+it.+Fixed+it.+Reported+all+three.;n%3D3+can%27t+beat+p%3D0.10.+So+I+ran+n%3D5.;Currently%3A+researching+PBNN+with+Prof.+Liping+Liu+%40+Tufts" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+## About me
+
+I'm a high school researcher in Austin, TX, working on mechanistic
+interpretability and training dynamics in small transformer models. I
+build things end to end — design the experiment, write and test the
+training code myself, run the statistics, and report what I find even
+when it doesn't confirm what I expected going in.
+
+- 🔭 **Currently researching:** curriculum ordering effects on grokking
+  (own project) and Pure Binary Neural Networks via LP relaxation, with
+  Prof. Liping Liu's group at Tufts
+- 🧪 **Recently shipped:** a paper reporting a failed replication
+  alongside a confirmed one — n=5 exact-permutation-tested, task-breadth
+  and model-scale tested, mechanism hypothesis tested and revised when
+  the data didn't support it
+- 🌱 **Also building:** SiteForge, a web design business
+- 🏆 **Off the computer:** nationally ranked Public Forum debater, AIME
+  qualifier
+- 💬 **Ask me about:** why an exact permutation test can't beat p=0.10 at
+  n=3, or why a "confirmed" result still needs a scale-dependence caveat
+
+<br/>
+
+## Featured research
+
+<a href="https://github.com/isaacgong0311-hash/grokking-curriculum">
+<img align="left" src="./profile/pin-grokking-curriculum.svg" width="49%"/>
+</a>
+
+**Grouping by Result, Not Difficulty, Delays Grokking**
+An exploratory GPT-2 fine-tuning result suggested difficulty-based
+curriculum ordering delays grokking 97%. It didn't replicate from
+scratch. A different ordering — grouping by result value — did, and held
+up at n=5 under an exact, distribution-free test. Extended across three
+algorithmic tasks and three model scales; the effect is real at small
+scale and **statistically absent at 3.2M parameters**, which is reported
+as a limit on the claim, not buried.
+
+<br clear="left"/>
+<br/>
+
+## Stats
+
+<div align="center">
+<img src="./profile/stats.svg" height="165"/>
+<img src="https://streak-stats.demolab.com?user=isaacgong0311-hash&theme=default&hide_border=false" height="165"/>
+</div>
+
+<div align="center">
+<img src="./profile/top-langs.svg" height="165"/>
+</div>
+
+<br/>
+
+## Toolkit
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,latex,git,github,vscode,bash,cpp&theme=light" />
+
+<br/><br/>
+
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+</div>
+
+<br/>
+
+## Contribution graph, animated
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaacgong0311-hash/isaacgong0311-hash/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaacgong0311-hash/isaacgong0311-hash/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/isaacgong0311-hash/isaacgong0311-hash/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>Generated automatically by <code>.github/workflows/snake.yml</code> —
+appears once the workflow runs for the first time (Actions tab, or push
+any commit to trigger it).</sub>
+</div>
+
+<br/>
+
+## Currently reading the error logs on
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacgong0311-hash&theme=react-dark&hide_border=false&area=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### Let's talk research
+
+[![Email](https://img.shields.io/badge/Email-isaacgong0311%40gmail.com-2196F3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacgong0311@gmail.com)
+[![Zenodo](https://img.shields.io/badge/Zenodo-preprint-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/records/21463505)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=isaacgong0311-hash&label=Profile+Views&color=2196F3&style=flat" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:2196F3&height=100&section=footer" width="100%"/>
+
+</div>
