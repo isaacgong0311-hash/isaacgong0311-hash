@@ -1,0 +1,21 @@
+name: GitHub Streak Stats
+
+on:
+  # Run automatically every day at midnight
+  schedule:
+    - cron: '0 0 * * *'
+    
+  # Allows manual triggers
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # This action forces your profile README cache to clear so cards stay updated
+      - name: Clear GitHub Cache
+        run: |
+          curl -sX PURGE https://githubusercontent.com*
