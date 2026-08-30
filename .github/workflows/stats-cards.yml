@@ -15,7 +15,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # This action forces your profile README cache to clear so cards stay updated
-      - name: Clear GitHub Cache
-        run: |
-          curl -sX PURGE https://githubusercontent.com*
+      # The embedded stats images (streak-stats.demolab.com, skillicons.dev,
+      # etc.) are fetched live on every README render, so no cache purge is
+      # needed. The previous "Clear GitHub Cache" step ran `curl -sX PURGE`
+      # against a bare, malformed URL and always failed (exit code 3) —
+      # removed rather than replaced since it wasn't doing anything real.
+      - name: No-op (kept for workflow_dispatch/schedule trigger)
+        run: echo "Nothing to do — stats images are fetched live, no cache to clear."
